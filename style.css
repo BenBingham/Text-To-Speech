@@ -5,7 +5,7 @@
 }
 
 body{
-    background: darkslategray;
+    background: purple;
 }
 
 .container{
@@ -51,7 +51,6 @@ button:hover{
 
 h1{
     font-size: 4rem;
-    
 }
 
 p{
